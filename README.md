@@ -2,7 +2,7 @@
 Работа с файлом формата CSV
 
 
-Задание: 
+<b>Задание:</b> 
 
     Welcome to the Tropicent Test Pack.
 
