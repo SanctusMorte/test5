@@ -2,12 +2,12 @@
 Работа с файлом формата CSV
 
 <b>Стек:</b> 
-        PHP5
+                PHP5
     
 <b>Репозиторий состот из:</b> 
-        Bootstrap.php - скрипт
-        README.md - файл readme
-        statement.csv - файл с данными (CSV формат)
+                Bootstrap.php - скрипт
+                README.md - файл readme
+                statement.csv - файл с данными (CSV формат)
 
 <b>Задание:</b> 
 
